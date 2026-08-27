@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "health-app",
+    "name": "خُطى",
     "slug": "health-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/KhutaIcon.png",
     "scheme": "healthapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -14,9 +14,9 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/images/android-icon-foreground.png",
-        "backgroundImage": "./assets/images/android-icon-background.png",
-        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+        "foregroundImage": "./assets/images/KhutaIcon.png",
+        "backgroundImage": "./assets/images/KhutaIcon.png",
+        "monochromeImage": "./assets/images/KhutaIcon.png"
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
